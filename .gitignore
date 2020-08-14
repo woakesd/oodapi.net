@@ -271,4 +271,6 @@ appsettings.Development.json
 GeneratedReports/*
 AlerterBackendAPI/Properties/PublishProfiles/
 *.orig
-AlerterBackendAPI/web.config
+
+# ignore publish
+publish/
